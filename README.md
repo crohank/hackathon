@@ -1,1 +1,2 @@
-Just learning to integrate google map api in web page.
+-Created this as a part of hackthon. 
+- Used google maps api to find the nearest petrol and reserve your fuel and online so you dont have to wait in long queues at petrol pumps.
